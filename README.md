@@ -1,10 +1,10 @@
 # KNU Bootcamp Projects Repository
 
-경북대학교(KNU) AI 부트캠프 최종 프로젝트 제출 리포지토리입니다.
+강원대학교(KNU) AI 부트캠프 최종 프로젝트 제출 리포지토리입니다.
 
 ## 개요
 
-이 리포지토리는 KNU AI 부트캠프 참가자들의 최종 프로젝트를 관리하고 제출하기 위한 공식 공간입니다. 모든 팀은 독립적인 프로젝트 디렉토리에서 작업하며, 아래 가이드라인을 따라 프로젝트를 제출합니다.
+이 리포지토리는 강원대학교 부트캠프 참가자들의 최종 프로젝트를 관리하고 제출하기 위한 공식 공간입니다. 모든 팀은 독립적인 프로젝트 디렉토리에서 작업하며, 아래 가이드라인을 따라 프로젝트를 제출합니다.
 
 ---
 
@@ -30,7 +30,7 @@ knu-bootcamp-projects/
 **규칙:**
 - 디렉토리명은 영문 소문자 사용
 - 공백 대신 하이픈(`-`) 사용
-- 예시: `projects/llama-agent-team/`
+- 예시: `projects/team-1-financial-agent/`
 
 ### 2. 프로젝트 파일 관리
 
@@ -235,24 +235,4 @@ MIT License
 
 ## 라이센스
 
-MIT License
-
-Copyright (c) 2025 Upstage AI
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+T.B.D
